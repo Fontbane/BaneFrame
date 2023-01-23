@@ -1,0 +1,3 @@
+﻿  game.c
+C:\Users\austi\Documents\Github\BaneFrame\src\game.c(3,12): warning C4026: function declared with formal parameter list
+  BaneFrame.vcxproj -> C:\Users\austi\Documents\Github\BaneFrame\BaneFrame\Debug\BaneFrame.exe
